@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tienda Departamental</string>
+    <string name="codigo">Código de producto</string>
+    <string name="descripcion">Descripción</string>
+    <string name="chica">Talla chica</string>
+    <string name="mediana">Talla mediana</string>
+    <string name="grande">Talla grande</string>
+    <string name="costo">Costo unitario</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="agregar">Agregar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="regresar">Regresar</string>
+    <string name="datos">Información registrada</string>
+    <string name="producto_detalle">
+        Código: %1$d\nDescripción: %2$s\nMarca: %3$s\nTalla: %4$s\nCosto: %5$.2f\nCantidad: %6$d
+    </string>
+</resources>
